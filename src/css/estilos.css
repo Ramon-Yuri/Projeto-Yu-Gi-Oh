@@ -170,6 +170,6 @@ body::-webkit-scrollbar-track {
     border-radius: 10px;
 }
 
-::-webkit-scrollbar-thumb:hover {
+::-webkit-scrollbar-thumb {
     background: #c08057;
 }
