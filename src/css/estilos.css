@@ -132,7 +132,7 @@ body {
 }
 
 .fundo-7 {
-    background: url(../imagens/fundo-7.jpg      ) no-repeat;
+    background: url(../imagens/fundo-7.jpg) no-repeat;
 }
 
 .btn-seta {
@@ -170,6 +170,6 @@ body::-webkit-scrollbar-track {
     border-radius: 10px;
 }
 
-::-webkit-scrollbar-thumb {
+::-webkit-scrollbar-thumb:hover {
     background: #c08057;
 }
